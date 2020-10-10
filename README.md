@@ -29,4 +29,5 @@ Para realizar este estudio se utilizo los siguientes requerimientos
 Identificar el movimiento del robot accionado por cuatro cables en el plano xy. Dibujar el desempeño en el **eje x** y **eje y**. Además mostrar el error en función del tiempo a través del **índice del error cuadratico**. Realizar el procedimiento anterior para dos figuras. 
 
 
-## Revisar el archivo con el nombre:  TrabajoFinal_XavierAguas.ipynb realizado en JUPITER
+## Revisar el archivo con el nombre:  
+* [TrabajoFinal_XavierAguas.ipynb](https://github.com/kabirivan/CDRR-Movement/blob/main/TrabajoFinal_XavierAguas.ipynb)  realizado en JUPITER.
