@@ -1,4 +1,4 @@
-# Trabajo Final - Curso Introductorio a Python
+# Trabajo Final
 ## Movimiento de un robot paralelo accionado por cuatro cables
 
 -  **Nombre:** Xavier Ivan Aguas Haro
